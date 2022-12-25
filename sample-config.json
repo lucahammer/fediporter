@@ -1,0 +1,10 @@
+{
+    "mastodon_url" : "https://social.luca.run",
+    "mastodon_bearer" : "",
+    "twitter_bearer" : "",
+    
+    "data_dir" : "luca/data/", 
+    
+    "media_dir_backup" : "luca/data/tweets_media/",
+    "media_dir" : "luca/parser-output/media/" 
+}
