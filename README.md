@@ -1,4 +1,4 @@
-> **_NOTE:_**  Kevin Payravi improved the code and converted it to a regular Python script. You can find it here: https://github.com/KevinPayravi/twitter-archive-to-mastodon. Some fixes were pulled into the notebook.**
+> **_NOTE:_**  Kevin Payravi improved the code and converted it to a regular Python script. You can find it here: https://github.com/KevinPayravi/twitter-archive-to-mastodon. Some fixes were pulled into the notebook.
 
 
 # fediporter
