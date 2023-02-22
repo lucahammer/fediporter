@@ -1,7 +1,10 @@
+> **_NOTE:_**  Kevin Payravi improved the code and converted it to a regular Python script. You can find it here: https://github.com/KevinPayravi/twitter-archive-to-mastodon. Some fixes were pulled into the notebook.**
+
+
 # fediporter
 Notes on importing content to Mastodon. Very early version. Pull requests welcome. (It's unlikely that I will work on this for long.)
 
-Where it started: https://det.social/@luca/109559157244375603
+Where it started: ~~https://det.social/@luca/109559157244375603~~ https://social.luca.run/@luca/109559157272902502
 
 I run a personal Mastodon instance and wanted to import my Tweets without spamming my followers, the local timeline or other instances. In this repo you will find with what I came up. It's not meant for end users but admins who are okay with losing all their data. 
 
